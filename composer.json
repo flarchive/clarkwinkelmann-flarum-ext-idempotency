@@ -1,0 +1,37 @@
+{
+    "name": "clarkwinkelmann/flarum-ext-idempotency",
+    "description": "Add idempotency keys to Flarum API",
+    "keywords": [
+        "flarum",
+        "idempotence"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^0.1.0-beta.16"
+    },
+    "authors": [
+        {
+            "name": "Clark Winkelmann",
+            "email": "clark.winkelmann@gmail.com",
+            "homepage": "https://clarkwinkelmann.com/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ClarkWinkelmann\\Idempotency\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Idempotency",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-recycle",
+                "backgroundColor": "#684ba6",
+                "color": "#fff"
+            }
+        }
+    }
+}
