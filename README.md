@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-idempotency.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-idempotency) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-idempotency).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-idempotency/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.16`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-idempotency/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.16`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-04-11 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-idempotency/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-idempotency.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-idempotency.json)
 
